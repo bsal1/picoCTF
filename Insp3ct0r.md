@@ -39,7 +39,7 @@ https://jupiter.challenges.picoctf.org/problem/41511/
 6. Second part was in CSS and last part in JS code.
 ```
 
-## ```FLAG : picoCTF{r3j3ct_th3_du4l1ty_cca66bd3}```
+## ```FLAG : picoCTF{tru3_d3t3ct1ve_0r_ju5t_lucky?832b0699}```
 
 
 

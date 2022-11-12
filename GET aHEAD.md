@@ -40,7 +40,7 @@ Content-Length: 0
 Origin: http://mercury.picoctf.net:47967
 DNT: 1
 Connection: close
-Upgrade-Insecure-Requests: 1
+Upgrade-Insecure-Requests: 1 
 ```
 5. Change method `POST` to `HEAD`.
 

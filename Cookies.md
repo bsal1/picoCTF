@@ -14,7 +14,7 @@ Category: Web Exploitation
 ## Hints
 No Hints available.
 
-## Approach
+## Approach 
 
 1. Go to http://mercury.picoctf.net:47967/
 
